@@ -1,6 +1,13 @@
 *{
+  box-sizing: border-box;
+}
+
+.container{
   text-align: center;
   color: white;
   background-color: blueviolet;
   font-size: 33px;
+  width: 70%;
+  margin: 0% auto;
+  padding: 1rem;
 }
