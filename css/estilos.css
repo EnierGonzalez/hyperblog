@@ -1,4 +1,6 @@
-body{
+*{
   text-align: center;
-  color: blueviolet;
+  color: white;
+  background-color: blueviolet;
+  font-size: 33px;
 }
