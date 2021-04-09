@@ -12,3 +12,14 @@
   margin: 0% auto;
   padding: 1rem;
 }
+
+.cabecera{
+  color: teal;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+
+.cabecera:hover{
+  font-style: italic;
+  cursor: pointer;
+}
