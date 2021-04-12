@@ -14,9 +14,10 @@
 }
 
 .cabecera{
-  color: teal;
+  color: rgb(23, 29, 29);
   text-transform: capitalize;
   text-decoration: underline;
+  background-color: white;
 }
 
 .cabecera:hover{
